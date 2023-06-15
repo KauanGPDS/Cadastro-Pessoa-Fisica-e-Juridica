@@ -1,0 +1,15 @@
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\obj\Debug\net7.0\AtividadeBackEnd1Senai.csproj.AssemblyReference.cache
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\obj\Debug\net7.0\AtividadeBackEnd1Senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\obj\Debug\net7.0\AtividadeBackEnd1Senai.AssemblyInfoInputs.cache
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\obj\Debug\net7.0\AtividadeBackEnd1Senai.AssemblyInfo.cs
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\obj\Debug\net7.0\AtividadeBackEnd1Senai.csproj.CoreCompileInputs.cache
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\bin\Debug\net7.0\AtividadeBackEnd1Senai.exe
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\bin\Debug\net7.0\AtividadeBackEnd1Senai.deps.json
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\bin\Debug\net7.0\AtividadeBackEnd1Senai.runtimeconfig.json
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\bin\Debug\net7.0\AtividadeBackEnd1Senai.dll
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\bin\Debug\net7.0\AtividadeBackEnd1Senai.pdb
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\obj\Debug\net7.0\AtividadeBackEnd1Senai.dll
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\obj\Debug\net7.0\refint\AtividadeBackEnd1Senai.dll
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\obj\Debug\net7.0\AtividadeBackEnd1Senai.pdb
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\obj\Debug\net7.0\AtividadeBackEnd1Senai.genruntimeconfig.cache
+C:\Users\lipih\OneDrive\Área de Trabalho\backCSenai\AtividadeBackEnd1Senai\obj\Debug\net7.0\ref\AtividadeBackEnd1Senai.dll
